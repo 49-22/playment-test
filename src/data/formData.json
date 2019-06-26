@@ -1,0 +1,54 @@
+[
+    {
+        "id": "field-1",
+        "name": "",
+        "componentName": "StaticText",
+        "displayLabel": "Form for you Application"
+    },
+    {
+        "id": "field-2",
+        "name": "nameInput",
+        "componentName": "Input",
+        "initialValue": "Nitin N",
+        "value": ""
+    },
+    {
+        "id": "field-3",
+        "name": "state",
+        "componentName": "DropDown",
+        "initialValue": "Karnataka",
+        "value": "",
+        "items": [
+            {
+                "id": 1,
+                "label": "Karnataka"
+            },
+            {
+                "id": 2,
+                "label": "Telangana"
+            }
+        ]
+    },
+    {
+        "id": "field-4",
+        "name": "",
+        "componentName": "StaticText",
+        "displayLabel": "Add Component:"
+    },
+    {
+        "id": "field-5",
+        "name": "addComponent",
+        "componentName": "DropDown",
+        "value": "",
+        "items": [
+            {
+                "id": 1,
+                "label": "Input"
+            },
+            {
+                "id": 2,
+                "label": "DropDown"
+            }
+        ]
+    }
+]
